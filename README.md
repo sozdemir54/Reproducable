@@ -11,4 +11,6 @@ https://camo.githubusercontent.com/c2e6946f56b429f085a1df1c2dc3d41d991ae16b72b2a
 
 [![fair-software.eu](https://img.shields.io/badge/fair--software.eu-%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8B%20%20%E2%97%8F%20%20%E2%97%8B-orange)](https://fair-software.eu)
 
+<a href="https://doi.org/10.5281/zenodo.15131507"><img src="https://zenodo.org/badge/957013568.svg" alt="DOI"></a>
+
 
