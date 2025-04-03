@@ -1,0 +1,6 @@
+why does it exist
+what does it do
+how do i install it
+how do i ru ni t
+
+https://camo.githubusercontent.com/c2e6946f56b429f085a1df1c2dc3d41d991ae16b72b2aa44331df6ac22b1a3a5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6d617463686d732f6d73326465657073636f7265
